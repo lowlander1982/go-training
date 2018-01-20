@@ -1,0 +1,6 @@
+# General files to ignore
+.DS_Store
+.vscode
+
+# Executable build
+./go-training
